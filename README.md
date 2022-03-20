@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning bootstrap 5 & node.js
 - 📫 How to reach me:
        - @and#2473
-       - @andcowsheep on all social medias
+       - @andcowsheep on all other sns
        
 
 <!---
