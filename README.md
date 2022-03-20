@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @99souls
-- 👀 I’m interested in web development & data science
-- 🌱 I’m currently learning bootstrap 5 & node.js
-- 📫 How to reach me:
-       - @and#2473
-       - @andcowsheep on all other sns
+- hi im andrew or @99souls
+- i like web development & data science
+- i'm currently learning bootstrap 5 & node.js
+- my social medias are:
+       - @and#2473 on discord
+       - @andcowsheep on everything else
+- goodbye! :)
        
 
 <!---
