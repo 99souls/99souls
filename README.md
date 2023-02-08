@@ -1,3 +1,3 @@
 - hi im andrew or @99souls
-- i like web development & data science
+- i like web development & databases
 - i'm currently learning node.js
