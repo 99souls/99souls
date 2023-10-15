@@ -1,3 +1,3 @@
 - hi im andrew or @99souls
-- i like web development & occasionally software development.
-- i'm currently learning react & java
+- i like web development & more recently, UX design/development.
+- i'm currently learning react & figma
