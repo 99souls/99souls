@@ -1,3 +1,3 @@
 - i am andrew
-- i like frontend
-- backend too if you ask nicely
+- i like code, food and pretending i have design taste
+- i also probably spend too much time configuring my neovim
