@@ -7,4 +7,4 @@
 
 - and don't fret, I've already had my first react infinite render loop in production. I'm cleared. 
 
-- poke around, hit me up on my [LinkedIn](https://www.linkedin.com/in/andrew-foy/) if you're interested in chatting.
+poke around, hit me up on my [LinkedIn](https://www.linkedin.com/in/andrew-foy/) if you're interested in chatting.
